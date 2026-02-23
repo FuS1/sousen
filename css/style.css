@@ -1135,14 +1135,14 @@ article.welcome-part > p {
     right: 0;
   }
   .about-side-anchors.is-open {
-    right: 0;
+    right: 20px;
   }
   .about-side-anchors .mobile-toggle {
     display: block;
     position: absolute;
     left: -40px;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translate(0, -50%);
     background: #6B8E23;
     color: #fff;
     padding: 10px 5px;

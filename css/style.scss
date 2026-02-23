@@ -964,7 +964,7 @@ article.welcome-part {
         }
         
         &.is-open {
-            right: 0;
+            right: 20px;
         }
 
         .mobile-toggle {
@@ -972,7 +972,7 @@ article.welcome-part {
             position: absolute;
             left: -40px; // 凸出來讓使用者點擊
             top: 50%;
-            transform: translateY(-50%);
+            transform: translate(0,-50%);
             background: #6B8E23;
             color: #fff;
             padding: 10px 5px;
