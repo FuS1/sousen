@@ -1108,7 +1108,8 @@ article.welcome-part > p {
   position: fixed;
   top: 80px;
   z-index: 99;
-  right: 2%;
+  right: 20px;
+  margin: 0;
   z-index: 99;
 }
 .about-side-anchors .mobile-toggle {
