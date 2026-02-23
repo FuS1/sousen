@@ -946,7 +946,7 @@ article.welcome-part {
     }
     @include respond-down("md"){
         position: fixed;
-        right: -100px; // 預設隱藏在右側
+        right: -40px; // 預設隱藏在右側
         top: 50%;
         transform: translateY(-50%);
         background: rgba(255,255,255,0.95);
