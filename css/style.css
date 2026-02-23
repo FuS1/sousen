@@ -1132,7 +1132,7 @@ article.welcome-part > p {
     right: -40px;
   }
   .about-side-anchors.is-fixed.is-open {
-    right: 0;
+    right: 20px;
   }
   .about-side-anchors.is-open {
     right: 20px;
