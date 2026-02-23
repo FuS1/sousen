@@ -1140,7 +1140,7 @@ article.welcome-part > p {
   .about-side-anchors .mobile-toggle {
     display: block;
     position: absolute;
-    left: -40px;
+    left: -80px;
     top: 50%;
     transform: translate(0, -50%);
     background: #6B8E23;
